@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584226897907",
+    "project_id": "bodywise-d8163",
+    "storage_bucket": "bodywise-d8163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584226897907:android:14606603598d78889fdc86",
+        "android_client_info": {
+          "package_name": "com.example.body_wise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo4dUCdL0637dwra2ZkMz6q9gP9yW6x3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
